@@ -1,0 +1,4 @@
+name: primenumber
+dependencies:
+  browser: any
+  unittest: any
